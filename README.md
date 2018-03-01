@@ -25,7 +25,11 @@ MyMessages is distributed in the hope that it will be useful,but WITHOUT ANY WAR
 ## Documentation
 
 As System Administrator: Communities->Tabs and Modules->Tabs
+
 Top Frame Tab: My Institution
+
 My Institution->Default Content
+
 My Messages - Check both Displayed and Required boxes -> Submit
+
 My Institution - Should see My Messages tab in lower left hand corner with default text: Courses with Messages: You have no new unread messages!
